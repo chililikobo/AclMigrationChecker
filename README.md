@@ -52,6 +52,8 @@ Automatically adapts to the OS language settings, providing a seamless experienc
 * CommunityToolkit.Mvvm (MIT License)
 * System.IO.FileSystem.AccessControl (MIT License)
 
+For full license texts and copyright notices, please see [ThirdPartyNotices.md](ThirdPartyNotices.md).
+
 ---
 
 ## 日本語
@@ -96,4 +98,6 @@ OSの言語設定に合わせて自動的にインターフェース言語が切
 * Avalonia UI Framework (MIT License)
 * CommunityToolkit.Mvvm (MIT License)
 * System.IO.FileSystem.AccessControl (MIT License)
+
+各ライブラリの著作権表示およびライセンス条文全文については、[ThirdPartyNotices.md](ThirdPartyNotices.md) をご確認ください。
 
