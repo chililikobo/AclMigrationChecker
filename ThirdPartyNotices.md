@@ -2,7 +2,7 @@
 
 ACL Migration Checker (`win-x64` NativeAOT Release distribution) incorporates components from the open-source projects listed below. Note that `AvaloniaUI.DiagnosticsSupport` is referenced only in `Debug` builds and is excluded from `Release` / published distributions.
 
-Complete verbatim upstream third-party notices bundled with the Windows release package are also provided in [`AclMigrationChecker/Readme/ThirdPartyNotices.txt`](AclMigrationChecker/Readme/ThirdPartyNotices.txt).
+Complete verbatim upstream third-party notices are also bundled as `ThirdPartyNotices.txt` in the Windows release package.
 
 ---
 
@@ -268,7 +268,7 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 
-> Upstream third-party libraries bundled inside `libSkiaSharp.dll` and `libHarfBuzzSharp.dll` (including ANGLE, HarfBuzz, Skia, FreeType, libpng, libjpeg-turbo, libwebp, zlib, expat, ICU, DNG SDK, gif, piex, sfntly, SPIR-V Tools, etc.) are reproduced verbatim in [`AclMigrationChecker/Readme/ThirdPartyNotices.txt`](AclMigrationChecker/Readme/ThirdPartyNotices.txt).
+> Upstream third-party libraries bundled inside `libSkiaSharp.dll` and `libHarfBuzzSharp.dll` (including ANGLE, HarfBuzz, Skia, FreeType, libpng, libjpeg-turbo, libwebp, zlib, expat, ICU, DNG SDK, gif, piex, sfntly, SPIR-V Tools, etc.) are reproduced verbatim in `ThirdPartyNotices.txt` bundled with the release package.
 
 ---
 
